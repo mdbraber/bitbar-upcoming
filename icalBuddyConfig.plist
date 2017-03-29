@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constantArguments</key>
+	<dict>
+		<key>noRelativeDates</key>
+		<true/>
+		<key>dateFormat</key>
+		<string>%Y-%m-%d</string>
+		<key>includeEventProps</key>
+		<string>datetime,title</string>
+		<key>includeTaskProps</key>
+		<string>datetime,title</string>
+		<key>excludeEndDates</key>
+		<true/>
+		<key>noPropNames</key>
+		<true/>
+		<key>noCalendarNames</key>
+		<true/>
+		<key>includeOnlyEventsFromNowOn</key>
+		<true/>
+		<key>alertBullet</key>
+		<string></string>
+		<key>bullet</key>
+		<string></string>
+		<key>sectionSeparator</key>
+		<string></string>
+		<key>propertySeparators</key>
+		<string>| | |</string>
+		<key>propertyOrder</key>
+		<string>datetime,title</string>
+		<key>includeCals</key>
+		<string>Inbox,Today,Daily,Weekly,Monthly,Personal</string>
+	</dict>
+	<key>formatting</key>
+	<dict/>
+</dict>
+</plist>
